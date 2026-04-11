@@ -122,7 +122,7 @@
           <mxGeometry height="40" width="89" x="551" y="292" as="geometry" />
         </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-35" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Comprar" vertex="1">
-          <mxGeometry height="44" width="64" x="432" y="192" as="geometry" />
+          <mxGeometry height="44" width="80" x="416" y="192" as="geometry" />
         </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-36" edge="1" parent="1" source="8pJvDdhdsSbcHwrIXoWX-35" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8pJvDdhdsSbcHwrIXoWX-17" value="">
           <mxGeometry relative="1" as="geometry">
