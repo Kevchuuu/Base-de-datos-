@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="4T4RHCNteSujEFlz1_v4">
-    <mxGraphModel dx="1341" dy="779" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="1118" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8pJvDdhdsSbcHwrIXoWX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="camionero" vertex="1">
+        <mxCell id="8pJvDdhdsSbcHwrIXoWX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Camionero" vertex="1">
           <mxGeometry height="48" width="96" x="208" y="386" as="geometry" />
         </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="nombre" vertex="1">
@@ -58,7 +58,7 @@
             <mxPoint x="320" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8pJvDdhdsSbcHwrIXoWX-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="camión" vertex="1">
+        <mxCell id="8pJvDdhdsSbcHwrIXoWX-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Camión" vertex="1">
           <mxGeometry height="48" width="96" x="208" y="176" as="geometry" />
         </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="potencia" vertex="1">
@@ -85,7 +85,7 @@
             <mxPoint x="279" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8pJvDdhdsSbcHwrIXoWX-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="paquetes" vertex="1">
+        <mxCell id="8pJvDdhdsSbcHwrIXoWX-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Paquete" vertex="1">
           <mxGeometry height="48" width="96" x="608" y="386" as="geometry" />
         </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="descripción" vertex="1">
@@ -188,7 +188,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9ajzRnDJcOORifOS2QH-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="provincia" vertex="1">
+        <mxCell id="Y9ajzRnDJcOORifOS2QH-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Provincia" vertex="1">
           <mxGeometry height="48" width="96" x="608" y="176" as="geometry" />
         </mxCell>
         <mxCell id="Y9ajzRnDJcOORifOS2QH-11" edge="1" parent="1" source="Y9ajzRnDJcOORifOS2QH-12" style="endArrow=none;html=1;rounded=0;verticalAlign=middle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8pJvDdhdsSbcHwrIXoWX-24" value="">
