@@ -130,7 +130,7 @@
         <mxCell id="8BC-WzwDjEsvaa-WiYgQ-3" edge="1" parent="1" source="8pJvDdhdsSbcHwrIXoWX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8BC-WzwDjEsvaa-WiYgQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8pJvDdhdsSbcHwrIXoWX-35" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Conducir" vertex="1">
+        <mxCell id="8pJvDdhdsSbcHwrIXoWX-35" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="conduce" vertex="1">
           <mxGeometry height="44" width="104" x="204" y="282" as="geometry" />
         </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-36" edge="1" parent="1" source="8pJvDdhdsSbcHwrIXoWX-35" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
@@ -174,7 +174,7 @@
         <mxCell id="Y9ajzRnDJcOORifOS2QH-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="tipo" vertex="1">
           <mxGeometry height="50" width="88" x="280" y="75" as="geometry" />
         </mxCell>
-        <mxCell id="Y9ajzRnDJcOORifOS2QH-4" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Distibuir" vertex="1">
+        <mxCell id="Y9ajzRnDJcOORifOS2QH-4" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="distribuye" vertex="1">
           <mxGeometry height="44" width="96" x="399.9957142857142" y="388" as="geometry" />
         </mxCell>
         <mxCell id="Y9ajzRnDJcOORifOS2QH-5" connectable="0" parent="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;imageAspect=1;direction=east;imageAlign=left;" value="1" vertex="1">
@@ -201,7 +201,7 @@
             <mxPoint x="544" y="326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9ajzRnDJcOORifOS2QH-12" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Llegar" vertex="1">
+        <mxCell id="Y9ajzRnDJcOORifOS2QH-12" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="llega" vertex="1">
           <mxGeometry height="44" width="96" x="608" y="282" as="geometry" />
         </mxCell>
         <mxCell id="Y9ajzRnDJcOORifOS2QH-13" connectable="0" parent="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;imageAspect=1;direction=east;imageAlign=left;" value="N" vertex="1">
