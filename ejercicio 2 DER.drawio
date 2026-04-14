@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="4T4RHCNteSujEFlz1_v4">
-    <mxGraphModel dx="889" dy="1118" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="896" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,9 @@
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="matrícula" vertex="1">
           <mxGeometry height="40" width="80" x="96" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="8BC-WzwDjEsvaa-WiYgQ-3" edge="1" parent="1" source="8pJvDdhdsSbcHwrIXoWX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8BC-WzwDjEsvaa-WiYgQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8pJvDdhdsSbcHwrIXoWX-35" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Conducir" vertex="1">
           <mxGeometry height="44" width="104" x="204" y="282" as="geometry" />
         </mxCell>
@@ -232,6 +235,9 @@
             <mxPoint x="864" y="275" as="sourcePoint" />
             <mxPoint x="864" y="224" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8BC-WzwDjEsvaa-WiYgQ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="fecha" vertex="1">
+          <mxGeometry height="28" width="72" x="368" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
