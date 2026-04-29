@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN8x7UVuc3qJYs6niZda-55" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lista FK" vertex="1">
-          <mxGeometry height="210" width="400" x="864" y="174" as="geometry" />
+          <mxGeometry height="240" width="400" x="864" y="174" as="geometry" />
         </mxCell>
         <mxCell id="FN8x7UVuc3qJYs6niZda-56" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Venta.nro_computadora&amp;nbsp; -&amp;gt; Computadora.nro_computadora&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="400" y="30" as="geometry" />
@@ -362,6 +362,9 @@
         </mxCell>
         <mxCell id="FN8x7UVuc3qJYs6niZda-67" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Proveedor.cod_IVA -&amp;gt; condición_IVA.cod_IVA" vertex="1">
           <mxGeometry height="30" width="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FN8x7UVuc3qJYs6niZda-68" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Notebook.cod_tipo -&amp;gt; tipo.tipo_notebook" vertex="1">
+          <mxGeometry height="30" width="400" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
