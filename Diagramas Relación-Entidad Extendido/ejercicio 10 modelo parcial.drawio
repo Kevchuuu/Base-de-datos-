@@ -1000,7 +1000,7 @@
             <mxRectangle height="34" width="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j1u_nH8ME3tb8l9kGHzM-84" parent="j1u_nH8ME3tb8l9kGHzM-16" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="&lt;u&gt;CUIT_Proveedor&lt;/u&gt;" vertex="1">
+        <mxCell id="j1u_nH8ME3tb8l9kGHzM-84" parent="j1u_nH8ME3tb8l9kGHzM-16" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="&lt;u&gt;CUIT_Prov&lt;/u&gt;" vertex="1">
           <mxGeometry height="34" width="112" x="560" as="geometry">
             <mxRectangle height="34" width="112" as="alternateBounds" />
           </mxGeometry>
