@@ -1467,7 +1467,7 @@
         <mxCell id="j1u_nH8ME3tb8l9kGHzM-172" parent="j1u_nH8ME3tb8l9kGHzM-161" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="40" width="400" y="214" as="geometry" />
         </mxCell>
-        <mxCell id="j1u_nH8ME3tb8l9kGHzM-173" parent="j1u_nH8ME3tb8l9kGHzM-172" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Proveedor: condición_IVA, CUIT, razón_social, teléfonos" vertex="1">
+        <mxCell id="j1u_nH8ME3tb8l9kGHzM-173" parent="j1u_nH8ME3tb8l9kGHzM-172" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Proveedor: condición_IVA, CUIT, razón_social, teléfono" vertex="1">
           <mxGeometry height="40" width="400" as="geometry">
             <mxRectangle height="40" width="400" as="alternateBounds" />
           </mxGeometry>
