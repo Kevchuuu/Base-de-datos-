@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN8x7UVuc3qJYs6niZda-55" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lista FK" vertex="1">
-          <mxGeometry height="270" width="400" x="704" y="22" as="geometry" />
+          <mxGeometry height="330" width="400" x="704" y="22" as="geometry" />
         </mxCell>
         <mxCell id="FN8x7UVuc3qJYs6niZda-56" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Venta.nro_computadora&amp;nbsp; -&amp;gt; Computadora.nro_computadora&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="400" y="30" as="geometry" />
@@ -368,6 +368,12 @@
         </mxCell>
         <mxCell id="Lbh9Mqg_84emMdw6yE1k-109" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Computadora.gama&amp;nbsp;-&amp;gt; Gama.cod_gama" vertex="1">
           <mxGeometry height="30" width="400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="j1u_nH8ME3tb8l9kGHzM-149" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Notebook.nro_computadora -&amp;gt; Computadora.nro_computadora" vertex="1">
+          <mxGeometry height="30" width="400" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j1u_nH8ME3tb8l9kGHzM-160" parent="FN8x7UVuc3qJYs6niZda-55" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Escritorio.nro_computadora -&amp;gt; Computadora.nro_computadora" vertex="1">
+          <mxGeometry height="30" width="400" y="300" as="geometry" />
         </mxCell>
         <mxCell id="FN8x7UVuc3qJYs6niZda-90" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" value="" vertex="1">
           <mxGeometry height="160" width="391" x="368" y="789" as="geometry" />
