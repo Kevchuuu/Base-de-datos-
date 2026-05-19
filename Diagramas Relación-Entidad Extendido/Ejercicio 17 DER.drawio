@@ -299,7 +299,7 @@
         <mxCell id="-d1FRA65ouexrHyQp0ys-54" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Obra Famosa" vertex="1">
           <mxGeometry height="40" width="100" x="-550" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="-d1FRA65ouexrHyQp0ys-55" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="tiene" vertex="1">
+        <mxCell id="-d1FRA65ouexrHyQp0ys-55" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="pertenece" vertex="1">
           <mxGeometry height="40" width="80" x="-350" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="-d1FRA65ouexrHyQp0ys-56" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="compuesto" vertex="1">
