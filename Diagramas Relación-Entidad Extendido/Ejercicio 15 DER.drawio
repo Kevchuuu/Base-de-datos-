@@ -171,7 +171,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-15" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="30" width="490" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-16" parent="ueE01yVk29oMdbMIV5Yc-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Producto: &lt;u&gt;id_producto&lt;/u&gt;, descripción, color, costo_fijo_fabricación" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-16" parent="ueE01yVk29oMdbMIV5Yc-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Producto: &lt;u&gt;cod_producto&lt;/u&gt;, descripción, color, costo_fijo_fabricación, &lt;b&gt;CUIT_fábrica&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="490" as="geometry">
             <mxRectangle height="30" width="490" as="alternateBounds" />
           </mxGeometry>
