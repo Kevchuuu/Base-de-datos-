@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="dDNBranZba3NlD8anCg2">
-    <mxGraphModel dx="2413" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2911" dy="2736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,28 @@
           <mxGeometry height="310" width="1415" x="-670" y="-860" as="geometry" />
         </mxCell>
         <mxCell id="ueE01yVk29oMdbMIV5Yc-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lista FK" vertex="1">
-          <mxGeometry height="210" width="400" x="440" y="-100" as="geometry" />
+          <mxGeometry height="240" width="400" x="440" y="-100" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-2" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nota.nombre_programa-&amp;gt; Programa.nombre" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-2" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Género.nombre_época-&amp;gt; Época.nombre" vertex="1">
           <mxGeometry height="30" width="400" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-3" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Categoria_y_nota.título_nota-&amp;gt; Nota.título" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-3" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Utilización.nombre_género-&amp;gt; Género.nombre" vertex="1">
           <mxGeometry height="30" width="400" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-4" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Categoria_y_nota.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;nombre_categoría-&amp;gt; Categoría.nombre&lt;/span&gt;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-4" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Utilización.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;nombre_instrumento-&amp;gt; Instrumento.nombre&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="400" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-5" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Categoría.id_categoría-&amp;gt; Categoría.nombre" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-5" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Músico.nombre_género-&amp;gt; Género.nombre" vertex="1">
           <mxGeometry height="30" width="400" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-6" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Comentario.título-&amp;gt; Nota.título" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-6" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Compositores.nombre_obra_famosa-&amp;gt; Obra famosa.nombre" vertex="1">
           <mxGeometry height="30" width="400" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-31" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Comentario.email_usuario-&amp;gt; Usuario.email" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-31" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Compositores.nombre_músico-&amp;gt; Músico.nombre" vertex="1">
           <mxGeometry height="30" width="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-d1FRA65ouexrHyQp0ys-77" parent="ueE01yVk29oMdbMIV5Yc-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Obra famosa.nombre_género -&amp;gt;&amp;nbsp;Género.nombre" vertex="1">
+          <mxGeometry height="30" width="400" y="210" as="geometry" />
         </mxCell>
         <mxCell id="ueE01yVk29oMdbMIV5Yc-12" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="250" width="490" x="440" y="-460" as="geometry" />
@@ -34,7 +37,7 @@
         <mxCell id="3osZsQ2Fq6k2BvSbL6Ga-1" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="30" width="490" as="geometry" />
         </mxCell>
-        <mxCell id="3osZsQ2Fq6k2BvSbL6Ga-2" parent="3osZsQ2Fq6k2BvSbL6Ga-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Programa: &lt;u&gt;nombre&lt;/u&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;descripción, conductores, hora_inicial&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, hora_final&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="3osZsQ2Fq6k2BvSbL6Ga-2" parent="3osZsQ2Fq6k2BvSbL6Ga-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Época: &lt;u&gt;nombre&lt;/u&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;características, período_año_comienzo, período_año_final&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="490" as="geometry">
             <mxRectangle height="30" width="490" as="alternateBounds" />
           </mxGeometry>
@@ -42,7 +45,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-13" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="30" width="490" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-14" parent="ueE01yVk29oMdbMIV5Yc-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nota: &lt;u&gt;título&lt;/u&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;contenido, imagen, resumen, &lt;b&gt;nombre_programa&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-14" parent="ueE01yVk29oMdbMIV5Yc-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Género: &lt;u&gt;nombre&lt;/u&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;características, origen, &lt;b&gt;nombre_época&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="490" as="geometry">
             <mxRectangle height="30" width="490" as="alternateBounds" />
           </mxGeometry>
@@ -50,7 +53,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-15" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="30" width="490" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-16" parent="ueE01yVk29oMdbMIV5Yc-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Categoría: &lt;u&gt;nombre&lt;/u&gt;, descripción, imagen, &lt;b&gt;id_categoría&lt;/b&gt;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-16" parent="ueE01yVk29oMdbMIV5Yc-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Instrumento: &lt;u&gt;nombre&lt;/u&gt;, fotografía, creador, lugar_origen, tipo, material" vertex="1">
           <mxGeometry height="30" width="490" as="geometry">
             <mxRectangle height="30" width="490" as="alternateBounds" />
           </mxGeometry>
@@ -58,7 +61,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-17" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="40" width="490" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-18" parent="ueE01yVk29oMdbMIV5Yc-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Comentario: &lt;b&gt;título_nota&lt;/b&gt;,&amp;nbsp;&lt;u&gt;id_comentario&lt;/u&gt;, texto, &lt;b&gt;email_usuario&lt;/b&gt;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-18" parent="ueE01yVk29oMdbMIV5Yc-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Obra famosa: &lt;u style=&quot;&quot;&gt;nombre&lt;/u&gt;,&amp;nbsp;año, partitura, &lt;b&gt;nombre_categoría&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="490" as="geometry">
             <mxRectangle height="40" width="490" as="alternateBounds" />
           </mxGeometry>
@@ -66,7 +69,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-19" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="40" width="490" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-20" parent="ueE01yVk29oMdbMIV5Yc-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Usuario:&amp;nbsp;&lt;/span&gt;&lt;u&gt;email&lt;/u&gt;,&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;username, password,&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;avatar, fecha_registro&lt;/span&gt;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-20" parent="ueE01yVk29oMdbMIV5Yc-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Compositores:&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;nombre_obra_famosa&lt;/b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;, descripción,&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;&lt;b&gt;nombre_músico&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="490" as="geometry">
             <mxRectangle height="40" width="490" as="alternateBounds" />
           </mxGeometry>
@@ -74,7 +77,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-23" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
           <mxGeometry height="40" width="490" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-24" parent="ueE01yVk29oMdbMIV5Yc-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Categoria_y_nota: &lt;b&gt;título_nota,&lt;/b&gt;&amp;nbsp;&lt;b&gt;nombre_categoría&lt;/b&gt;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-24" parent="ueE01yVk29oMdbMIV5Yc-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Músico: &lt;u&gt;nombre&lt;/u&gt;&lt;b&gt;,&lt;/b&gt;&amp;nbsp;fecha_nac, fecha_muerte, historia, &lt;b&gt;nombre_género&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="490" as="geometry">
             <mxRectangle height="40" width="490" as="alternateBounds" />
           </mxGeometry>
@@ -82,7 +85,7 @@
         <mxCell id="ueE01yVk29oMdbMIV5Yc-26" parent="ueE01yVk29oMdbMIV5Yc-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
           <mxGeometry height="40" width="490" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="ueE01yVk29oMdbMIV5Yc-27" parent="ueE01yVk29oMdbMIV5Yc-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Conductores: &lt;b&gt;nombre_programa&lt;/b&gt;, nombre_conductor&amp;nbsp;" vertex="1">
+        <mxCell id="ueE01yVk29oMdbMIV5Yc-27" parent="ueE01yVk29oMdbMIV5Yc-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="Utilización: &lt;b&gt;nombre_género&lt;/b&gt;, &lt;b&gt;nombre_instrumento&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="490" as="geometry">
             <mxRectangle height="40" width="490" as="alternateBounds" />
           </mxGeometry>
